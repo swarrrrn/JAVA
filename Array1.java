@@ -1,6 +1,7 @@
+// Finding the largest sum of any two distinct values from an array
 import java.util.Scanner;
 
-public class Main {
+public class Array {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int t = scanner.nextInt();
